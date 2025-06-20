@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Sristi Srivastava!
+# Hi there 👋, I'm Sristi Srivastava
+<img src="https://raw.githubusercontent.com/Sristi29/Sristi29/main/photo-1633791583517-c828e6f851a9.avif" alt="Sristi Srivastava" width="250"/>
 ## I'm a final year 💻 Computer Science student and I love turning ideas into real projects through full-stack development and open-source contributions. Whether it’s building smart web apps or working on tech for social impact, I enjoy learning by doing.❤️‍🔥 
 
 ## 💻 Technical Skills
