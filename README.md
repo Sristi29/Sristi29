@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Sristi Srivastava
-<img src="https://github.com/Sristi29/Sristi29/blob/main/photo-1542831371-29b0f74f9713.avif" alt="Sristi Srivastava" width="1000" height="300"/>
+<img src="https://images.unsplash.com/photo-1581090700227-1e8e90876d58" alt="Coding Setup" width="1000" height="300"/>
 ## I'm a final year 💻 Computer Science student and I love turning ideas into real projects through full-stack development and open-source contributions. Whether it’s building smart web apps or working on tech for social impact, I enjoy learning by doing.❤️‍🔥 
 
 ## 💻 Technical Skills
