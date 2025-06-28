@@ -82,4 +82,11 @@
   </a>
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sristi29&show_icons=true&theme=radical" alt="Sristi Srivastava's GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sristi29&layout=compact&theme=radical" alt="Top Languages" height="200"/>
+</p>
+
 
