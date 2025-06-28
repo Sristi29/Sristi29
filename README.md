@@ -2,6 +2,7 @@
 <img src="https://github.com/Sristi29/Sristi29/blob/main/mygithubpic.jpg" alt="Coding Setup" width="1000" height="400"/>
 
 # 🚀 Full-Stack Dev | Data Whisperer 🔍 | Solving Real-World Problems with Code ✨
+<img src="https://github.com/Sristi29/Sristi29/blob/main/giforgit.gif?raw=true" alt="coding gif" width="1000" height="400"/>
 
 
 ## I'm a final year 💻 Computer Science student and I love turning ideas into real projects through full-stack development and open-source contributions. Whether it’s building smart web apps or working on tech for social impact, I enjoy learning by doing.❤️‍🔥 
