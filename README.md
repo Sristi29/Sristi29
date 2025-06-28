@@ -5,7 +5,11 @@
 <img src="https://github.com/Sristi29/Sristi29/blob/main/giforgit.gif?raw=true" alt="coding gif" width="1000" height="400"/>
 
 
-## I'm a final year 💻 Computer Science student and I love turning ideas into real projects through full-stack development and open-source contributions. Whether it’s building smart web apps or working on tech for social impact, I enjoy learning by doing.❤️‍🔥 
+## I'm a final year 💻 Computer Science student and I love turning ideas into real projects through full-stack development and problem solving. Whether it’s building smart web apps or working on tech for social impact, I enjoy learning by doing.❤️‍🔥 
+
+# Profile view 👀
+![Profile Views](https://komarev.com/ghpvc/?username=Sristi29&style=for-the-badge)
+
 
 ## 💻 Technical Skills
 - Coding: C++, C, Java, Unix, SQL, OOPs, Python.
@@ -14,6 +18,7 @@
 - DevTools: Git, GitHub, VSCode.
 - CS Fundamentals: Operating Systems.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sristi29)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌟 Notable Projects
 - Scheduling Algorithm (June-24-2024) (https://github.com/Sristi29/-sheduling-algorithm)
@@ -33,7 +38,18 @@
 - 🕹️ CCNA certification
 -  🧠 open source contribution ,full stack development and social impact
 
-## 📫 Connect with Me
-- GitHub: [@sristi29](https://github.com/sristi29)
-- LinkedIn: [www.linkedin.com/in/sristi-srivastava]
+## 📫 Connect with me
+
+<p align="left">
+  <a href="www.linkedin.com/in/sristi-srivastava" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:sristidpsbsc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  
+  <a href="https://github.com/Sristi29" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
